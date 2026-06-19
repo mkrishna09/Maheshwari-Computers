@@ -50,7 +50,7 @@ export default function Hero() {
               </a>
 
             </div>
-            <div className="mt-10 flex gap-8 text-sm">
+            <div className="mt-10 grid grid-cols-2 gap-6 sm:grid-cols-4 text-sm">
               <div>
                 <p className="text-2xl font-bold text-brand-text">25+</p>
                 <p className="text-brand-muted">Years Experience</p>
@@ -77,7 +77,7 @@ export default function Hero() {
   <div className="grid gap-4">
 
     {/* Main Store Image */}
-    <div className="overflow-hidden rounded-3xl shadow-xl">
+    <div className="mt-8 overflow-hidden rounded-3xl shadow-xl">
       <Image
         src="/gallery/store-front.jpeg"
         alt="Maheshwari Computers Store Front"
@@ -90,7 +90,7 @@ export default function Hero() {
     {/* Bottom Two Images */}
     <div className="grid grid-cols-2 gap-4">
 
-      <div className="overflow-hidden rounded-3xl shadow-xl">
+      <div className="mt-8 overflow-hidden rounded-3xl shadow-xl">
         <Image
           src="/gallery/store-inside.jpeg"
           alt="Store Interior"
