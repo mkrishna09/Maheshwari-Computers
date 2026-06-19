@@ -3,7 +3,7 @@ export default function Stats() {
       <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-20 text-white">
         <div className="mx-auto max-w-container px-6">
   
-          <div className="grid gap-10 text-center md:grid-cols-3 sm:grid-cols-2">
+          <div className="grid gap-10 text-center lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2">
   
             <div>
               <h3 className="text-5xl font-bold">25+</h3>
