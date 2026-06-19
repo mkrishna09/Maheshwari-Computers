@@ -12,7 +12,14 @@ export default function Hero() {
               Trusted IT Solutions in Delhi NCR
             </span>
 
-            <h1 className="mt-6 text-6xl font-bold lg:text-7xl font-bold text-brand-text">
+            <h1 className="
+                mt-6
+                text-4xl
+                font-bold
+                leading-tight
+                sm:text-5xl
+                lg:text-7xl
+              font-bold text-brand-text">
               Delhi NCR's Trusted
               <br />
               Computer & IT Partner
