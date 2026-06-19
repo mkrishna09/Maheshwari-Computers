@@ -34,7 +34,7 @@ export default function LaptopRepairPage() {
   return (
     <main>
       {/* Hero */}
-      <section className="bg-navy-900 py-24 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
         <div className="mx-auto max-w-container px-6 text-center">
           <Laptop
             size={60}
@@ -59,7 +59,7 @@ export default function LaptopRepairPage() {
             Services We Provide
           </h2>
 
-          <div className="mt-16 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid gap-7 md:grid-cols-2 lg:grid-cols-3">
             {services.map((service) => (
               <div
                 key={service}
@@ -89,7 +89,7 @@ export default function LaptopRepairPage() {
       {/* Common Problems */}
       <section className="bg-warm-100 py-24">
         <div className="mx-auto max-w-container px-6">
-          <h2 className="text-center text-4xl font-bold">
+          <h2 className="text-center text-4xl sm:text-6xl lg:text-4xl font-bold">
             Common Laptop Problems We Fix
           </h2>
 

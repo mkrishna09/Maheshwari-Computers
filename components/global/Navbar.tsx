@@ -60,6 +60,9 @@ export default function Navbar() {
             <Link href="/products" onClick={() => setOpen(false)}>
               Products
             </Link>
+            <Link href="/gallery" onClick={() => setOpen(false)}>
+              Products
+            </Link>
 
             <Link href="/contact" onClick={() => setOpen(false)}>
               Contact

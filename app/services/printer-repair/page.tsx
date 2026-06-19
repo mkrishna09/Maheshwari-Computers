@@ -52,7 +52,7 @@ export default function PrinterRepairPage() {
   return (
     <main>
       {/* Hero */}
-      <section className="bg-navy-900 py-24 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
         <div className="mx-auto max-w-container px-6 text-center">
 
           <Printer
@@ -274,7 +274,7 @@ export default function PrinterRepairPage() {
       <section className="py-24">
         <div className="mx-auto max-w-container px-6">
 
-          <div className="rounded-[32px] bg-navy-900 px-12 py-20 text-center text-white">
+          <div className="rounded-[32px] bg-gradient-to-r from-navy-900 to-navy-950 px-12 py-20 text-center text-white">
 
             <h2 className="text-5xl font-bold">
               Need Printer Repair?

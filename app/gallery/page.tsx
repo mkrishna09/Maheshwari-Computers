@@ -28,13 +28,13 @@ export default function GalleryPage() {
   return (
     <main>
       {/* Hero */}
-      <section className="bg-navy-900 py-24 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
         <div className="mx-auto max-w-container px-6 text-center">
-          <h1 className="text-6xl font-bold">
+          <h1 className="text-6xl sm:text-4xl lg:text-8xl font-bold">
             Gallery
           </h1>
 
-          <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
+          <p className="mx-auto mt-6 max-w-3xl text-2xl text-gray-300">
             Take a look inside Maheshwari Computers and explore
             our services, products and workspace.
           </p>
@@ -129,7 +129,7 @@ export default function GalleryPage() {
       <section className="pb-24">
         <div className="mx-auto max-w-container px-6">
 
-          <div className="rounded-[32px] bg-navy-900 px-12 py-20 text-center text-white">
+          <div className="rounded-[32px] bg-gradient-to-r from-navy-900 to-navy-950 px-12 py-20 text-center text-white">
 
             <h2 className="text-5xl font-bold">
               Visit Our Store Today

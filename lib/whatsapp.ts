@@ -3,7 +3,7 @@
 // This means: one place to change the phone number, one place to
 // update message templates, consistent professional tone everywhere.
 
-const PHONE = "+91 9416055255"; // Replace with real number: 91 + 10-digit number
+const PHONE = "+91 9416055255"; 
 
 // Encode a message for a WhatsApp URL
 function buildLink(message: string): string {

@@ -17,7 +17,7 @@ export default function Hero() {
                 text-4xl
                 font-bold
                 leading-tight
-                sm:text-5xl
+                sm:text-3xl
                 lg:text-7xl
               font-bold text-brand-text">
               Delhi NCR's Trusted
@@ -35,7 +35,7 @@ export default function Hero() {
 
               <a
                 href="tel:+919416055255"
-                className="rounded-xl bg-navy-900 px-8 py-4 font-medium text-white transition hover:bg-navy-800"
+                className="rounded-xl bg-gradient-to-r from-navy-900 to-navy-950 px-8 py-4 font-medium text-white transition hover:bg-navy-800"
               >
                 Call Now
               </a>
@@ -94,18 +94,18 @@ export default function Hero() {
         <Image
           src="/gallery/store-inside.jpeg"
           alt="Store Interior"
-          width={500}
-          height={400}
+          width={400}
+          height={300}
           className="h-[220px] w-full object-cover transition duration-500 hover:scale-105"
         />
       </div>
 
-      <div className="overflow-hidden rounded-3xl shadow-xl">
+      <div className="mt-8 overflow-hidden rounded-3xl shadow-xl">
         <Image
           src="/gallery/store.webp"
           alt="Products and Inventory"
-          width={500}
-          height={400}
+          width={400}
+          height={300}
           className="h-[220px] w-full object-cover transition duration-500 hover:scale-105"
         />
       </div>

@@ -1,6 +1,6 @@
 export default function Stats() {
     return (
-      <section className="bg-navy-900 py-20 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-20 text-white">
         <div className="mx-auto max-w-container px-6">
   
           <div className="grid gap-10 text-center md:grid-cols-5">

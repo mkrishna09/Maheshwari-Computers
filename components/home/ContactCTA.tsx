@@ -5,7 +5,7 @@ export default function ContactCTA() {
     <section id="contact" className="py-24">
       <div className="mx-auto max-w-container px-6">
 
-        <div className="rounded-[32px] bg-navy-900 px-12 py-20 text-center text-white">
+        <div className="rounded-[32px] bg-gradient-to-r from-navy-900 to-navy-950 px-12 py-20 text-center text-white">
 
           <h2 className="text-5xl font-bold">
             Need Laptop Repair, Printer Service,

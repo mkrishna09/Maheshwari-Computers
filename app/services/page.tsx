@@ -62,7 +62,7 @@ import Link from "next/link";
   export default function ServicesPage() {
     return (
       <main>
-        <section className="bg-navy-900 py-24 text-white">
+        <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
           <div className="mx-auto max-w-container px-6 text-center">
             <h1 className="text-6xl font-bold">
               Our Services

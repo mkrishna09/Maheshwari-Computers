@@ -10,7 +10,7 @@ export default function AboutPreview() {
                 ABOUT US
               </span>
   
-              <h2 className="mt-4 text-5xl font-bold">
+              <h2 className="mt-4 text-4xl sm:text-5xl lg:text-5xl font-bold">
               Your Trusted Technology Partner Since 2000
               </h2>
   
@@ -27,8 +27,8 @@ export default function AboutPreview() {
               </p>
             </div>
   
-            <div className="rounded-3xl bg-navy-900 p-12 text-white">
-              <h3 className="text-3xl font-bold">
+            <div className="rounded-2xl bg-gradient-to-b from-navy-900 to-navy-950 p-12 text-white">
+              <h3 className="text-2xl font-bold">
                 Why Customers Trust Us
               </h3>
   

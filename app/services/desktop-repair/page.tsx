@@ -34,7 +34,7 @@ export default function DesktopRepairPage() {
   return (
     <main>
       {/* Hero */}
-      <section className="bg-navy-900 py-24 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
         <div className="mx-auto max-w-container px-6 text-center">
           <Monitor
             size={60}
@@ -197,7 +197,7 @@ export default function DesktopRepairPage() {
       </section>
 
       {/* Why Choose Us */}
-      <section className="bg-navy-900 py-24 text-white">
+      <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24 text-white">
         <div className="mx-auto max-w-container px-6 text-center">
 
           <h2 className="text-4xl font-bold">

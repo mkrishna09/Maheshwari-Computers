@@ -34,11 +34,11 @@ const features = [
 
 export default function WhyChooseUs() {
   return (
-    <section className="bg-navy-900 py-24">
+    <section className="bg-gradient-to-r from-navy-900 to-navy-950 py-24">
       <div className="mx-auto max-w-container px-6">
 
         <div className="mb-16 text-center">
-          <h2 className="text-5xl font-bold text-white">
+          <h2 className="text-5xl sm:text-5xl lg:text-7xl font-bold text-white">
             Why Choose Maheshwari Computers
           </h2>
 
