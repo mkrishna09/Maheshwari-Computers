@@ -17,12 +17,10 @@ export default function Hero() {
                 text-4xl
                 font-bold
                 leading-tight
-                sm:text-3xl
+                sm:text-5xl
                 lg:text-7xl
               font-bold text-brand-text">
-              Delhi NCR's Trusted
-              <br />
-              Computer & IT Partner
+              Delhi NCR's Trusted Computer & IT Partner
             </h1>
 
             <p className="mt-6 max-w-xl text-body-lg text-brand-muted">

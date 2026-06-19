@@ -38,11 +38,11 @@ export default function WhyChooseUs() {
       <div className="mx-auto max-w-container px-6">
 
         <div className="mb-16 text-center">
-          <h2 className="text-5xl sm:text-5xl lg:text-7xl font-bold text-white">
+          <h2 className="text-4xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white">
             Why Choose Maheshwari Computers
           </h2>
 
-          <p className="mx-auto mt-4 max-w-2xl text-gray-300">
+          <p className="mx-auto mt-4 max-w-xl text-gray-300">
             Trusted by students, businesses, schools and home users
             across Delhi NCR.
           </p>

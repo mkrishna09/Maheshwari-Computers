@@ -7,10 +7,8 @@ export default function ContactCTA() {
 
         <div className="rounded-[32px] bg-gradient-to-r from-navy-900 to-navy-950 px-12 py-20 text-center text-white">
 
-          <h2 className="text-5xl font-bold">
-            Need Laptop Repair, Printer Service,
-            <br />
-            or Business IT Support?
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+            Need Laptop Repair, Printer Service, or Business IT Support?
           </h2>
 
           <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
