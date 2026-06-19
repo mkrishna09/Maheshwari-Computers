@@ -4,6 +4,7 @@ import {
     MapPin,
     MessageCircle,
   } from "lucide-react";
+  import Link from "next/link";
   
   export default function Footer() {
     return (
@@ -31,10 +32,10 @@ import {
               </h4>
   
               <ul className="space-y-3 text-gray-400">
-                <li>Laptop Repair</li>
-                <li>Desktop Repair</li>
-                <li>Printer Service</li>
-                <li>CCTV Installation</li>
+              <Link href="/services/laptop-repair">Laptop Services</Link><br />
+              <Link href="/services/desktop-repair">Desktop Services</Link><br />
+              <Link href="/services/printer-repair">Printer Service</Link><br />
+              <Link href="/services/cctv-installation">CCTV Services</Link><br />
                 <li>Networking Solutions</li>
                 <li>Data Recovery</li>
               </ul>
@@ -47,11 +48,11 @@ import {
               </h4>
   
               <ul className="space-y-3 text-gray-400">
-                <li>Home</li>
-                <li>Services</li>
-                <li>Products</li>
-                <li>About Us</li>
-                <li>Contact</li>
+                <Link href="/">Home</Link><br />
+                <Link href="/services">Services</Link><br />
+                <Link href="/products">Products</Link><br />
+                <Link href="/gallery">Gallery</Link><br /> 
+                <Link href="/contact">Contact</Link>
               </ul>
             </div>
   
