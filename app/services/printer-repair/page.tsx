@@ -11,9 +11,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Printer Repair & Servicing in Bahadurgarh",
+  title: "Printer Repair & Servicing in Delhi NCR",
   description:
-    "Professional printer repair, servicing, cartridge replacement, network printer setup and maintenance services in Bahadurgarh.",
+    "Professional printer repair, servicing, cartridge replacement, network printer setup and maintenance services in Delhi NCR.",
 };
 
 const services = [

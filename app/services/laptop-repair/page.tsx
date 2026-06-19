@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Laptop Repair, Servicing & Upgrades in Bahadurgarh",
+  title: "Laptop Repair, Servicing & Upgrades in Delhi NCR",
   description:
-    "Professional laptop repair, servicing, cleaning, hinge repair, SSD upgrades, battery replacement and troubleshooting services in Bahadurgarh.",
+    "Professional laptop repair, servicing, cleaning, hinge repair, SSD upgrades, battery replacement and troubleshooting services in Delhi NCR.",
 };
 
 const services = [
@@ -47,7 +47,7 @@ export default function LaptopRepairPage() {
 
           <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
             Professional laptop repair, servicing, cleaning,
-            upgrades and troubleshooting services in Bahadurgarh.
+            upgrades and troubleshooting services in Delhi NCR.
           </p>
         </div>
       </section>

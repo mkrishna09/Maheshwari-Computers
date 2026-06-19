@@ -20,7 +20,7 @@ import {
   
               <p className="mt-4 text-gray-400 leading-7">
                 Complete IT solutions for homes, businesses,
-                schools and offices in Bahadurgarh.
+                schools and offices in Delhi NCR.
               </p>
             </div>
   
@@ -104,7 +104,7 @@ import {
             </p>
   
             <p>
-            Serving Bahadurgarh with trusted IT solutions for over 25 years.
+            Serving Delhi NCR with trusted IT solutions for over 25 years.
             </p>
   
           </div>

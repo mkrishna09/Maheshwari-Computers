@@ -7,9 +7,9 @@ import {
   } from "lucide-react";
 
   export const metadata = {
-    title: "Computer Repair Services in Bahadurgarh",
+    title: "Computer Repair Services in Delhi NCR",
     description:
-      "Laptop repair, desktop repair, printer service, networking, CCTV installation and IT support in Bahadurgarh, Haryana.",
+      "Laptop repair, desktop repair, printer service, networking, CCTV installation and IT support in Delhi NCR.",
   };
   
   export default function ContactPage() {

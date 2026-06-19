@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Desktop Repair & Upgrades in Bahadurgarh",
+  title: "Desktop Repair & Upgrades in Delhi NCR",
   description:
-    "Professional desktop repair, PC upgrades, motherboard repair, SSD installation, RAM upgrades and troubleshooting services in Bahadurgarh.",
+    "Professional desktop repair, PC upgrades, motherboard repair, SSD installation, RAM upgrades and troubleshooting services in Delhi NCR.",
 };
 
 const services = [
@@ -47,7 +47,7 @@ export default function DesktopRepairPage() {
 
           <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
             Professional desktop repair, PC upgrades,
-            troubleshooting and custom computer solutions in Bahadurgarh.
+            troubleshooting and custom computer solutions in Delhi NCR.
           </p>
         </div>
       </section>

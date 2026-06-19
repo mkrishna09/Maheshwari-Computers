@@ -9,17 +9,17 @@ export default function Hero() {
 
           <div>
             <span className="rounded-full bg-teal-100 px-4 py-2 text-sm font-semibold text-teal-600">
-              Trusted IT Solutions in Bahadurgarh
+              Trusted IT Solutions in Delhi NCR
             </span>
 
             <h1 className="mt-6 text-6xl font-bold lg:text-7xl font-bold text-brand-text">
-              Bahadurgarh's Trusted
+              Delhi NCR's Trusted
               <br />
               Computer & IT Partner
             </h1>
 
             <p className="mt-6 max-w-xl text-body-lg text-brand-muted">
-            Serving Bahadurgarh for over 25 years with laptop repairs,
+            Serving Delhi NCR for over 25 years with laptop repairs,
             desktop sales, printer servicing, CCTV solutions, networking
             products and complete IT support.
             </p>

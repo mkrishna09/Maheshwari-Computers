@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "CCTV Installation in Bahadurgarh",
+  title: "CCTV Installation in Delhi NCR",
   description:
-    "Professional CCTV camera installation, DVR setup, remote monitoring and security solutions for homes, offices and businesses in Bahadurgarh.",
+    "Professional CCTV camera installation, DVR setup, remote monitoring and security solutions for homes, offices and businesses in Delhi NCR.",
 };
 
 const services = [

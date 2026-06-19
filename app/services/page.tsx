@@ -70,7 +70,7 @@ import Link from "next/link";
   
             <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
               Complete IT solutions for homes, businesses,
-              schools and organizations in Bahadurgarh.
+              schools and organizations in Delhi NCR.
             </p>
           </div>
         </section>

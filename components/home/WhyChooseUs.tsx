@@ -44,7 +44,7 @@ export default function WhyChooseUs() {
 
           <p className="mx-auto mt-4 max-w-2xl text-gray-300">
             Trusted by students, businesses, schools and home users
-            across Bahadurgarh.
+            across Delhi NCR.
           </p>
         </div>
 

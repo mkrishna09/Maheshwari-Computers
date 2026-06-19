@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Data Recovery Services in Bahadurgarh",
+  title: "Data Recovery Services in Delhi NCR",
   description:
-    "Recover deleted files, formatted drives, damaged hard disks, SSDs, pen drives and important business data with professional data recovery services in Bahadurgarh.",
+    "Recover deleted files, formatted drives, damaged hard disks, SSDs, pen drives and important business data with professional data recovery services in Delhi NCR.",
 };
 
 const recoveryServices = [

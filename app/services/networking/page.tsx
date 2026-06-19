@@ -12,9 +12,9 @@ import {
 } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Networking Solutions in Bahadurgarh",
+  title: "Networking Solutions in Delhi NCR",
   description:
-    "Professional networking solutions including Wi-Fi setup, LAN cabling, router configuration, office networking and internet troubleshooting in Bahadurgarh.",
+    "Professional networking solutions including Wi-Fi setup, LAN cabling, router configuration, office networking and internet troubleshooting in Delhi NCR.",
 };
 
 const services = [
@@ -47,7 +47,7 @@ export default function NetworkingPage() {
 
           <p className="mx-auto mt-6 max-w-3xl text-xl text-gray-300">
             Reliable networking solutions for homes,
-            offices, schools and businesses in Bahadurgarh.
+            offices, schools and businesses in Delhi NCR.
           </p>
 
         </div>
