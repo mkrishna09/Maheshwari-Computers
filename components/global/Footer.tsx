@@ -36,8 +36,8 @@ import {
               <Link href="/services/desktop-repair">Desktop Services</Link><br />
               <Link href="/services/printer-repair">Printer Service</Link><br />
               <Link href="/services/cctv-installation">CCTV Services</Link><br />
-                <li>Networking Solutions</li>
-                <li>Data Recovery</li>
+              <Link href="/services/networking">Networking Services</Link><br />
+              <Link href="/services/data-recovery">Data Recovery</Link>
               </ul>
             </div>
   
