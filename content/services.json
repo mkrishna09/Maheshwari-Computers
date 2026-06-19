@@ -1,0 +1,191 @@
+{
+    "pillars": [
+      {
+        "id": "repair",
+        "slug": "repair-support",
+        "label": "Repair & Support",
+        "tagline": "Fast, reliable fixes for every device",
+        "icon": "Wrench",
+        "services": [
+          {
+            "id": "laptop-repair",
+            "name": "Laptop Repair",
+            "slug": "laptop-repair",
+            "tagline": "Screen, keyboard, battery, motherboard — we fix it all",
+            "description": "From cracked screens to motherboard failures, our certified technicians diagnose and repair all major laptop brands. Most repairs are completed within 24–48 hours.",
+            "benefits": [
+              "Free diagnosis — no fix, no charge",
+              "Genuine spare parts with warranty",
+              "All brands: HP, Dell, Lenovo, Asus, Acer, Apple",
+              "Turnaround: 24–72 hours for most repairs"
+            ],
+            "process": [
+              "Bring your laptop — free diagnosis on the spot",
+              "We call you with the problem and exact cost before starting",
+              "Repair done, tested thoroughly",
+              "Collect your device with 30-day service warranty"
+            ],
+            "startingPrice": "₹299"
+          },
+          {
+            "id": "desktop-repair",
+            "name": "Desktop Repair",
+            "slug": "desktop-repair",
+            "tagline": "Hardware faults, no display, slow PC — diagnosed and fixed",
+            "description": "We repair all desktop configurations — assembled PCs, branded desktops, and all-in-ones. We also offer on-site repairs for businesses.",
+            "benefits": [
+              "Home/office visit available",
+              "RAM, PSU, HDD, GPU replacement",
+              "All brands supported",
+              "Same-day service for common faults"
+            ],
+            "process": [
+              "Walk in or call for on-site visit",
+              "Full hardware diagnostic",
+              "Transparent quote before any work",
+              "90-day warranty on replaced parts"
+            ],
+            "startingPrice": "₹249"
+          },
+          {
+            "id": "printer-repair",
+            "name": "Printer Repair",
+            "slug": "printer-repair",
+            "tagline": "Paper jam, ink issues, offline errors — all printer brands",
+            "description": "We service inkjet and laser printers from HP, Epson, Canon, and Brother. We also offer AMC contracts for offices with heavy printing needs.",
+            "benefits": [
+              "Inkjet and laser printer specialists",
+              "Cartridge refilling and replacement",
+              "Network printer configuration",
+              "AMC packages available"
+            ],
+            "process": [
+              "Bring the printer or we visit your office",
+              "Complete diagnosis in 30 minutes",
+              "Repair or part replacement with quote",
+              "Test print before handover"
+            ],
+            "startingPrice": "₹199"
+          }
+        ]
+      },
+      {
+        "id": "network-cctv",
+        "slug": "network-cctv",
+        "label": "Network & CCTV",
+        "tagline": "Connect and secure your home or office",
+        "icon": "Wifi",
+        "services": [
+          {
+            "id": "networking",
+            "name": "Networking Solutions",
+            "slug": "networking",
+            "tagline": "Fast, stable WiFi and wired networks for homes and offices",
+            "description": "We design, install, and configure network infrastructure for homes, offices, schools, and businesses. Includes router setup, cable laying, and network security.",
+            "benefits": [
+              "Free site survey before installation",
+              "Structured cabling and wireless both",
+              "Network security configuration",
+              "Ongoing support available"
+            ],
+            "process": [
+              "Free site visit and requirements discussion",
+              "Network plan and cost estimate",
+              "Professional installation",
+              "Testing and handover with documentation"
+            ],
+            "startingPrice": "₹1,499"
+          },
+          {
+            "id": "cctv",
+            "name": "CCTV Installation",
+            "slug": "cctv",
+            "tagline": "Protect your home, shop, or office with professional surveillance",
+            "description": "We supply, install, and configure CCTV systems from trusted brands. Includes DVR/NVR setup, mobile app configuration, and staff training.",
+            "benefits": [
+              "HD and 4K cameras available",
+              "Remote viewing on mobile",
+              "Night vision cameras",
+              "1-year installation warranty"
+            ],
+            "process": [
+              "Site survey — camera placement plan",
+              "Brand and package recommendation",
+              "Professional installation and cabling",
+              "Mobile app setup and staff training"
+            ],
+            "startingPrice": "₹4,999"
+          }
+        ]
+      },
+      {
+        "id": "software-data",
+        "slug": "software-data",
+        "label": "Software & Data",
+        "tagline": "Keep your data safe and your system clean",
+        "icon": "Shield",
+        "services": [
+          {
+            "id": "data-recovery",
+            "name": "Data Recovery",
+            "slug": "data-recovery",
+            "tagline": "Deleted files, dead hard drive — we recover what matters",
+            "description": "Professional data recovery from hard drives, SSDs, USB drives, and memory cards. We recover deleted files, formatted drives, and data from physically damaged storage.",
+            "benefits": [
+              "No data, no charge policy",
+              "Confidential — your data stays private",
+              "HDD, SSD, USB, memory card support",
+              "Emergency same-day service available"
+            ],
+            "process": [
+              "Bring the storage device",
+              "Free assessment — recovery chances confirmed",
+              "Recovery attempt with real-time updates",
+              "Data delivered on new storage device"
+            ],
+            "startingPrice": "₹999"
+          },
+          {
+            "id": "virus-removal",
+            "name": "Virus Removal & System Cleanup",
+            "slug": "virus-removal",
+            "tagline": "Slow PC, popup ads, ransomware — complete system cleaning",
+            "description": "Full virus, malware, and spyware removal with genuine antivirus installation. System optimisation to restore performance.",
+            "benefits": [
+              "Genuine antivirus installation",
+              "Complete system scan and cleanup",
+              "Performance optimisation",
+              "30-day protection guarantee"
+            ],
+            "process": [
+              "Bring your device",
+              "Complete scan and threat assessment",
+              "Removal + antivirus installation",
+              "Performance check before handover"
+            ],
+            "startingPrice": "₹349"
+          },
+          {
+            "id": "amc",
+            "name": "Annual Maintenance Contract",
+            "slug": "amc",
+            "tagline": "One annual fee — unlimited IT support all year",
+            "description": "Our AMC covers all your computers, printers, and networking equipment for a fixed annual fee. Ideal for offices, schools, and businesses who need reliable IT without surprise costs.",
+            "benefits": [
+              "Unlimited service calls",
+              "Priority response — within 4 hours",
+              "Quarterly preventive maintenance",
+              "Free software updates and antivirus"
+            ],
+            "process": [
+              "Site visit — inventory and assessment",
+              "Customised AMC plan and pricing",
+              "Contract signed, coverage begins",
+              "Dedicated support contact assigned"
+            ],
+            "startingPrice": "₹2,999/year"
+          }
+        ]
+      }
+    ]
+  }

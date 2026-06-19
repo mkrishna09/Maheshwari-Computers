@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Shivangi Rathi",
+      "role": "Small Business Owner",
+      "location": "Bahadurgarh",
+      "device": "Laptop screen replaced",
+      "quote": "The computer repair shop owner is highly competent and professional. Accurate diagnosis, transparent pricing, and timely delivery. I appreciate the honest approach and quality work",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Siddharth Mittal",
+      "role": "School Principal",
+      "location": "Bahadurgarh",
+      "device": "30-computer AMC",
+      "quote": "One of the best one stop solutions for your computer systems related solutions. The owner Anil ji really knows how to make you comfortable with all the technical details for a layman to understand.",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Kush Rathee",
+      "role": "Home User",
+      "location": "Bahadurgarh",
+      "device": "Data recovered from dead HDD",
+      "quote": "Great Place for All computer related things , good on-site service, owner is very friendly and has good nature",
+      "rating": 5
+    }
+  ]
