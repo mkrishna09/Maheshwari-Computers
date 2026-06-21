@@ -7,17 +7,17 @@ export function getLocalBusinessSchema() {
     return {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "@id": "https://maheshwaricomputers.com/#business",
+      "@id": "https://maheshwaricomputers.vercel.app",
       name: "Maheshwari Computers",
       description:
         "Computer sales, laptop repair, printer service, networking, CCTV installation, and IT support in Bahadurgarh, Haryana.",
-      url: "https://maheshwaricomputers.com",
-      telephone: "+91-98123-45678",   // replace with real number
-      email: "info@maheshwaricomputers.com",
-      foundingDate: "2012",
+      url: "https://maheshwaricomputers.vercel.app",
+      telephone: "+91 94160 55255",   
+      email: "maheshwaricomputer@gmail.com",
+      foundingDate: "2000",
       address: {
         "@type": "PostalAddress",
-        streetAddress: "Your Shop Address, Market Name", // replace
+        streetAddress: "Y1, Nahara-Nahri Road, Model Town",
         addressLocality: "Bahadurgarh",
         addressRegion: "Haryana",
         postalCode: "124507",
@@ -25,8 +25,8 @@ export function getLocalBusinessSchema() {
       },
       geo: {
         "@type": "GeoCoordinates",
-        latitude: 28.6913,   // replace with exact GPS coordinates
-        longitude: 76.9265,  // from Google Maps
+        latitude: 28.69243407199209,   
+        longitude: 76.93180990552251,  
       },
       openingHoursSpecification: [
         {
@@ -47,8 +47,8 @@ export function getLocalBusinessSchema() {
         "@type": "GeoCircle",
         geoMidpoint: {
           "@type": "GeoCoordinates",
-          latitude: 28.6913,
-          longitude: 76.9265,
+          latitude: 28.69243407199209,   
+          longitude: 76.93180990552251, 
         },
         geoRadius: "15000", // 15km radius
       },
