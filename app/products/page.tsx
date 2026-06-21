@@ -36,7 +36,7 @@ const categories = [
   {
     title: "Computer Accessories",
     image: "/products/accessories-1.jpeg",
-    brands: ["Lapcare", "Fingers", "Keyboards", "Mouse"],
+    brands: ["HP", "Dell", "Lenovo","Lapcare", "Fingers", "Keyboards", "Mouse"],
   },
   {
     title: "Printer Cartridges & Toners",
