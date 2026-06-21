@@ -4,6 +4,7 @@ import WhatsAppFAB from "@/components/global/WhatsappFAB";
 import Footer from "@/components/global/Footer";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "../styles/globals.css";
+import StructuredData from "@/lib/structured-data";
 
 
 
@@ -79,7 +80,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={jakarta.variable}>
       <body className="bg-warm-white text-brand-text antialiased">
-        
+        <StructuredData/>
         <Navbar />
         
         <main>{children}</main>
